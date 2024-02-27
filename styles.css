@@ -1,0 +1,22 @@
+/* Abraham Lincoln */
+/* 25 FEB 2024 */
+/* Style Sheet Template */
+
+:root {
+
+    --charcoal: rgb(27, 26, 26);
+
+    font-size: 16px;
+    
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.warning {
+    color: red;
+    font-weight: bold;
+}
